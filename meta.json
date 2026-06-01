@@ -1,0 +1,14 @@
+{
+"id":"ranma1/2",
+"name":"Ranma 1/2 Balatro",
+"author":
+   [
+   "Secto",
+   ""
+   ],
+"description":"A Balatro Mod that replaces the deck with Ranma 1/2-themed cards!",
+"prefix":"ranma",
+"main_file":"main.lua",
+"priority":0,
+"version":"1.0.0"
+}

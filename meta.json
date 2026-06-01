@@ -8,7 +8,7 @@
    ],
 "description":"A Balatro Mod that replaces the deck with Ranma 1/2-themed cards!",
 "prefix":"ranma",
-"main_file":"main.lua",
+"main_file":"ranma1:2.lua",
 "priority":0,
 "version":"1.0.0"
 }
